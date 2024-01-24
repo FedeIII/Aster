@@ -94,6 +94,7 @@ Each row represents a frame of the animation. The format of the rows is:
 
 For example, for the sprite marked in blue in the player spritesheet:
 ![anim1](Docs/1.png) ![anim1](Docs/2.png)
-![anim1](Docs/3.png | width=300) ![anim1](Docs/4.png | width=300)
+![anim1](Docs/3.png) ![anim1](Docs/4.png)
+
 The row for the frame would be:
 `23 10 4 3 3 1`
